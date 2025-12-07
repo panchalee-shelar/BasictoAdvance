@@ -1,0 +1,31 @@
+{
+   "name": "basic-react",
+  "version": "1.0.0",
+  "description": "Basic To Advance",
+  "main": "App.js",
+  "scripts": {
+    "start": "npm run dev",
+    "test": "jest",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panchalee-shelar/BasictoAdvance.git"
+  },
+  "author": "Panchalee Shelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panchalee-shelar/BasictoAdvance/issues"
+  },
+  "homepage": "https://github.com/panchalee-shelar/BasictoAdvance#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^7.2.4"
+  }
+}
